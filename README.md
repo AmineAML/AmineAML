@@ -1,4 +1,4 @@
-### Hi there 👋
+[Click ME!](https://www.amineamellouk.com/hi)
 
 <!--
 **AmineAML/AmineAML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
