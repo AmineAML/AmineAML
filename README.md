@@ -3,11 +3,13 @@ I'm a Software Developer with a passion for the Back-End engineering and a backg
 
 ## Current projects
 - [Thermopolia](https://github.com/AmineAML/thermopolia-api): A recipe recommendation and newesletter application centered around diversity and simplicity.
+- [Fadayiy](https://github.com/AmineAML/fadayiy-api): An app for space nerds and researchers.
 
 ## Bio
 - Coding: **Javascript**, **TypeScript**, **C#**, **Dart**
 - Learning: **Rust**, **Golang**
 - Favorite playlist: **[amazing playlist](https://www.youtube.com/playlist?list=PLrMI_cg4oki8WJW7HQwl_oqRfMTHMht4f)**
+- I made a list for the Back-End development fundamentls: **[Fundamentals of the Back-End Development + More! - A Curated List](https://gist.github.com/AmineAML/29c1966430742845bfeac86b2bcb45e1)**
 
 ## Connect with me
 [<img align="left" alt="amineamellouk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
