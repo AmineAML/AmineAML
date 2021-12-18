@@ -9,7 +9,7 @@ I'm a Software Developer with a passion for the Back-End engineering and a backg
 - Coding: **Javascript**, **TypeScript**, **C#**, **Dart**
 - Learning: **Rust**, **Golang**
 - Favorite playlist: **[amazing playlist](https://www.youtube.com/playlist?list=PLrMI_cg4oki8WJW7HQwl_oqRfMTHMht4f)**
-- I made a list for the Back-End development fundamentls: **[Fundamentals of the Back-End Development + More! - A Curated List](https://gist.github.com/AmineAML/29c1966430742845bfeac86b2bcb45e1)**
+- List for the Back-End development fundamentals: **[Fundamentals of the Back-End Development + More! - A Curated List](https://gist.github.com/AmineAML/29c1966430742845bfeac86b2bcb45e1)**
 
 ## Connect with me
 [<img align="left" alt="amineamellouk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
