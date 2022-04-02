@@ -7,14 +7,14 @@ I'm a Software Developer with a passion for the Back-End engineering and a backg
 
 ## Bio
 - Coding: **Javascript**, **TypeScript**, **C#**, **Dart**
-- Learning: **Rust**, **Golang**
+- Learning: **Rust**
 - Favorite playlist: **[amazing playlist](https://www.youtube.com/playlist?list=PLrMI_cg4oki8WJW7HQwl_oqRfMTHMht4f)**
 - List for the Back-End development fundamentals: **[Fundamentals of the Back-End Development + More! - A Curated List](https://gist.github.com/AmineAML/29c1966430742845bfeac86b2bcb45e1)**
 
 ## Connect with me
 [<img align="left" alt="amineamellouk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 [website]: https://www.amineamellouk.com
