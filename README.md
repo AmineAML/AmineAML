@@ -6,9 +6,8 @@ I'm a Software Developer with a passion for the Back-End engineering and a backg
 - [Fadayiy](https://github.com/AmineAML/fadayiy-api): An app for space nerds and researchers.
 
 ## Bio
-- Coding: **Javascript**, **TypeScript**, **C#**, **Dart**
+- Coding: **Javascript**, **TypeScript**, **C#**
 - Favorite playlist: **[amazing playlist](https://www.youtube.com/playlist?list=PLrMI_cg4oki8WJW7HQwl_oqRfMTHMht4f)**
-- List for the Back-End development fundamentals: **[Fundamentals of the Back-End Development + More! - A Curated List](https://gist.github.com/AmineAML/29c1966430742845bfeac86b2bcb45e1)**
 
 ## Connect with me
 [<img align="left" alt="amineamellouk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
