@@ -1,5 +1,5 @@
 # [Hi](https://www.amineamellouk.com/hi), I'm Amine :wave:
-I'm a Software Developer with a passion for the Back-End engineering and a background in economics, microservices enthusiast and dedicated for good documentation, architecture and the best practices, more on my website at [amineamellouk.com](amineamellouk.com).
+I'm a Software Developer with a passion for the Back-End engineering and a background in economics, microservices enthusiast and dedicated for good documentation, architecture and the best practices<!--, more on my website at [amineamellouk.com](amineamellouk.com)-->.
 
 ## Current projects
 - [Thermopolia](https://github.com/AmineAML/thermopolia-api): A recipe recommendation and newesletter application centered around diversity and simplicity.
@@ -7,7 +7,7 @@ I'm a Software Developer with a passion for the Back-End engineering and a backg
 
 ## Bio
 - Coding: **Javascript**, **TypeScript**, **C#**, **Dart**
-- Learning: **Rust**
+<!--- Learning: **Rust**-->
 - Favorite playlist: **[amazing playlist](https://www.youtube.com/playlist?list=PLrMI_cg4oki8WJW7HQwl_oqRfMTHMht4f)**
 - List for the Back-End development fundamentals: **[Fundamentals of the Back-End Development + More! - A Curated List](https://gist.github.com/AmineAML/29c1966430742845bfeac86b2bcb45e1)**
 
