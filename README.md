@@ -19,6 +19,9 @@ I'm a Software Developer with a passion for the Back-End engineering and a backg
 [linkedin]: https://linkedin.com/in/amine-amellouk
 [twitter]: https://twitter.com/aml_amine
 
+<b>My GitHub Stats</b>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmineAML&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **AmineAML/AmineAML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
