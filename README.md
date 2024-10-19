@@ -1,4 +1,4 @@
-# [Hi](https://www.amineamellouk.com/hi), I'm Amine :wave:
+# [Hi](https://amineaml.netlify.app/hi), I'm Amine :wave:
 I'm a Software Developer with a passion for the Back-End engineering and a background in economics, microservices enthusiast and dedicated for good documentation, architecture and the best practices<!--, more on my website at [amineamellouk.com](amineamellouk.com)-->.
 
 ## Current projects
