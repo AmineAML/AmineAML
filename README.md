@@ -8,7 +8,7 @@ I'm a Software Developer with a passion for the Back-End engineering and a backg
 ## Bio
 - Coding: **Javascript**, **TypeScript**, **C#**
 - Favorite playlist: **[amazing playlist](https://www.youtube.com/playlist?list=PLrMI_cg4oki8WJW7HQwl_oqRfMTHMht4f)**
-- Blog: **{EchoSpaceDev](https://echospacedev.netlify.app/)**
+- Blog: **[EchoSpaceDev](https://echospacedev.netlify.app/)**
 
 ## Connect with me
 [<img align="left" alt="amineaml.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
