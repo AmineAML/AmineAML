@@ -8,14 +8,15 @@ I'm a Software Developer with a passion for the Back-End engineering and a backg
 ## Bio
 - Coding: **Javascript**, **TypeScript**, **C#**
 - Favorite playlist: **[amazing playlist](https://www.youtube.com/playlist?list=PLrMI_cg4oki8WJW7HQwl_oqRfMTHMht4f)**
+- Blog: **{EchoSpaceDev](https://echospacedev.netlify.app/)**
 
 ## Connect with me
-[<img align="left" alt="amineamellouk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="amineaml.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-[website]: https://www.amineamellouk.com
+[website]: https://amineaml.netlify.app
 [linkedin]: https://linkedin.com/in/amine-amellouk
 [twitter]: https://twitter.com/aml_amine
 
